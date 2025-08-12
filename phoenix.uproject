@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D6CD33AA-48FB-A06F-36C7-98A13E3ACC37}",
+	"EngineAssociation": "{880E0A34-4980-E596-9386-2992F8B1997D}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -101,7 +101,7 @@
 		}
 	],
 	"Plugins": [
-        {
+		{
 			"Name": "UnrealPSKPSA",
 			"Enabled": true
 		},
